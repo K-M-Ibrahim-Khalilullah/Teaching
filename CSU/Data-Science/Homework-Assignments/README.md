@@ -1,3 +1,3 @@
 The Iris dataset is a classic benchmark dataset in statistics and machine learning. It contains 150 samples of iris flowers, divided equally among three distinct species: Iris setosa (characterized by relatively smaller sepals and petals), Iris versicolor (medium-sized), and Iris virginica (the largest). To help machine learning algorithms classify and predict these flower species, four physical measurements are recorded in centimeters for each sample: Sepal Length, Sepal Width, Petal Length, and Petal Width. Sepal Length and Sepal Width measure the dimensions of the outer sepals that protect the flower bud, while Petal Length and Petal Width measure the dimensions of the inner petals.
 In this assignment, you will classify flowers using the K-Nearest Neighbors (KNN) algorithm. 
-### Please refer to the Jupyter Notebook for detailed instructions.
+### Please refer to the Jupyter Notebook (KNN_Homework.ipynb) for detailed instructions.
